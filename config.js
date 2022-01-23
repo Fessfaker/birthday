@@ -16,6 +16,7 @@ var config = {
         "Bon Anniversaire",
         "Happy Birthday to you",
         "生日快乐",
+        "Férents,Mademoiselle~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -32,9 +33,9 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
+        turn_on: "点我点我",
+        play: "要来首钢琴曲吗",
+        bannar_coming: "再来点东西吧",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
